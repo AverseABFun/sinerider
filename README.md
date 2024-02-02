@@ -1,4 +1,7 @@
 
+THIS IS SOLELY A PLACE TO GET AROUND FILTERS BLOCKING SINERIDER. THIS IS NOT THE OFFICIAL REPOSITORY. THE OFFICIAL REPOSITORY IS [hackclub/sinerider](https://github.com/hackclub/sinerider).
+
+
 # SineRider
 
 SineRider is a game about love and graphing, built by a global team of teenagers at [Hack Club](https://hackclub.com). This open-source project is maintained by youth of all kinds: artists, musicians, programmers, and storytellers, so if that's you, come join us! We need your help pushing this beta toward a full 1.0 release.
